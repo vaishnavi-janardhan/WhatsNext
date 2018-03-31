@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "549688175876",
+    "firebase_url": "https://what-s-next-be5d6.firebaseio.com",
+    "project_id": "what-s-next-be5d6",
+    "storage_bucket": "what-s-next-be5d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549688175876:android:ec1b2b7696a13478",
+        "android_client_info": {
+          "package_name": "com.c0deb1ade.whatsnext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549688175876-12jkk4ltbsf4lcdnarlhksh9bb99t61j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.c0deb1ade.whatsnext",
+            "certificate_hash": "b1a4033bf0bad1bebd48ba85a69a32447b4edddc"
+          }
+        },
+        {
+          "client_id": "549688175876-81f7eivj4ci9c799t00ep73v6r5sbc82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0yPwyqbt43Heq5pmIvU13hcZ5YxALjWo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549688175876-81f7eivj4ci9c799t00ep73v6r5sbc82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
